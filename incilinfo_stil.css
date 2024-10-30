@@ -1,0 +1,22 @@
+@import url('http://incil.info/theme/inline.css');
+
+.incil_ayet {
+	border-bottom: dotted 1px #000;
+}
+.incil {
+	max-width: 30em;
+	font-size: 14px;
+	font-family: Georgia, Times, Times New Roman, serif;
+}
+.incil .foot {
+	text-align: right;
+	font-weight: bold;
+	font-size: .75em;
+	margin-top: .5em;
+	border-top: dotted 1px #000;
+	font-family: Helvetica, Arial, sans-serif;
+	letter-spacing: 1px;
+}
+.incil .head {
+	font-weight: bold;
+}
